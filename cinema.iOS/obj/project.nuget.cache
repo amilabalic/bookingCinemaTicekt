@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bytpyLy+EKF2M3fVIQWNLMRfV2Wn+nIZ+RB9rdDXG3Y9RXdpSR5q4GdFxaAjmVdmhMvgj9rkVr5IdlhcGJa9RQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Win10\\Desktop\\New folder\\cinema\\cinema.iOS\\cinema.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\xamarin.communitytoolkit\\1.1.0\\xamarin.communitytoolkit.1.1.0.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

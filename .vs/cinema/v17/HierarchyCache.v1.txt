@@ -1,0 +1,233 @@
+﻿++Solution 'cinema' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:cinema.sln
+++cinema.iOS
+i:{00000000-0000-0000-0000-000000000000}:cinema.iOS
+++Properties
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:c:\users\win10\desktop\new folder\cinema\cinema.ios\properties\
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\properties\
+++References
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:
+++Asset Catalogs
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:
+++Native References
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:
+++Resources
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:c:\users\win10\desktop\new folder\cinema\cinema.ios\resources\
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\
+++AppDelegate.cs
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:c:\users\win10\desktop\new folder\cinema\cinema.ios\appdelegate.cs
+++Entitlements.plist
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:c:\users\win10\desktop\new folder\cinema\cinema.ios\entitlements.plist
+++Info.plist
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:c:\users\win10\desktop\new folder\cinema\cinema.ios\info.plist
+++Main.cs
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:c:\users\win10\desktop\new folder\cinema\cinema.ios\main.cs
+++AssemblyInfo.cs
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:c:\users\win10\desktop\new folder\cinema\cinema.ios\properties\assemblyinfo.cs
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\properties\assemblyinfo.cs
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\assemblyinfo.cs
+++cinema
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:
+i:{00000000-0000-0000-0000-000000000000}:cinema
+++System
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:
+++System.Core
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:
+++System.Numerics
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:
+++System.Numerics.Vectors
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:
+++System.Xml
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:
+++Xamarin.Essentials
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:
+++Xamarin.Forms
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:
+++Xamarin.iOS
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:
+++Assets
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\assets\
+++LaunchScreen.storyboard
+i:{4f85e43a-40e6-4658-8fcc-888f25e30ef6}:c:\users\win10\desktop\new folder\cinema\cinema.ios\resources\launchscreen.storyboard
+++cinema.Android
+i:{00000000-0000-0000-0000-000000000000}:cinema.Android
+++drawable
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\
+++about.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\about.png
+++addIcon.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\addicon.png
+++adduser.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\adduser.png
+++back.jpg
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\back.jpg
+++backarrowicon.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\backarrowicon.png
+++backicon.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\backicon.png
+++bookticket.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\bookticket.png
+++cinemalogot.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\cinemalogot.png
+++contact.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\contact.png
+++ds.jpg
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\ds.jpg
+++film.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\film.png
+++Icon-36.png
+++lastseen.jpg
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\lastseen.jpg
+++location1.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\location1.png
+++login.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\login.png
+++loginuser.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\loginuser.png
+++logo.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\logo.png
+++logo1t.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\logo1t.png
+++logot.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\logot.png
+++logotest1.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\logotest1.png
+++logout.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\logout.png
+++lostcity.jpg
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\lostcity.jpg
+++mapicon.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\mapicon.png
+++menuicon.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\menuicon.png
+++pin.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\pin.png
+++remove.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\remove.png
+++search.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\search.png
+++search1.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\search1.png
+++searchIcon.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\searchicon.png
+++signup.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\signup.png
+++star.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\star.png
+++test1.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\test1.png
+++ticket.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\ticket.png
+++topgun.jpg
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\topgun.jpg
+++x.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\x.png
+++mipmap-anydpi-v26
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-anydpi-v26\
+++mipmap-hdpi
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-hdpi\
+++mipmap-mdpi
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-mdpi\
+++mipmap-xhdpi
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-xhdpi\
+++mipmap-xxhdpi
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-xxhdpi\
+++mipmap-xxxhdpi
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-xxxhdpi\
+++values
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\values\
+++AboutResources.txt
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\aboutresources.txt
+++Resource.designer.cs
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\resource.designer.cs
+++MainActivity.cs
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\mainactivity.cs
+++AndroidManifest.xml
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\properties\androidmanifest.xml
+++Mono.Android
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:
+++System.Xml.Linq
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:
+++AboutAssets.txt
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\assets\aboutassets.txt
+++icon.xml
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-anydpi-v26\icon.xml
+++icon_round.xml
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-anydpi-v26\icon_round.xml
+++icon.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-hdpi\icon.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-mdpi\icon.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-xhdpi\icon.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-xxhdpi\icon.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-xxxhdpi\icon.png
+++launcher_foreground.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-hdpi\launcher_foreground.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-mdpi\launcher_foreground.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-xhdpi\launcher_foreground.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-xxhdpi\launcher_foreground.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-xxxhdpi\launcher_foreground.png
+++colors.xml
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\values\colors.xml
+++styles.xml
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\values\styles.xml
+++Dependencies
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:>121
+++Packages
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:packages
+++App.xaml
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\app.xaml
+++App.xaml.cs
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\app.xaml.cs
+++BookPage.xaml
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\bookpage.xaml
+++BookPage.xaml.cs
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\bookpage.xaml.cs
+++Contact.xaml
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\contact.xaml
+++Contact.xaml.cs
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\contact.xaml.cs
+++DetailPage.xaml
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\detailpage.xaml
+++DetailPage.xaml.cs
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\detailpage.xaml.cs
+++MainPage.xaml
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\mainpage.xaml
+++MainPage.xaml.cs
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\mainpage.xaml.cs
+++MoviePage.xaml
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\moviepage.xaml
+++MoviePage.xaml.cs
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\moviepage.xaml.cs
+++SearchPage.xaml
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\searchpage.xaml
+++SearchPage.xaml.cs
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\searchpage.xaml.cs
+++TabbedPage.xaml
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\tabbedpage.xaml
+++NETStandard.Library (2.0.3)
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:>125
+++Xamarin.CommunityToolkit (1.1.0)
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:>123
+++Xamarin.Essentials (1.7.0)
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:>124
+++Xamarin.Forms (5.0.0.2196)
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:>126
+++TabbedPage.xaml.cs
+i:{78959615-6ff9-4377-8cfc-be49b48e7f42}:c:\users\win10\desktop\new folder\cinema\cinema\tabbedpage.xaml.cs
+++Icon36.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\icon36.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-xhdpi\icon36.png
+++Icon-72.png
+++Icon72.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\drawable\icon72.png
+i:{8419ccb8-8168-4872-a048-7c4348d5b3f9}:c:\users\win10\desktop\new folder\cinema\cinema.android\resources\mipmap-xhdpi\icon72.png

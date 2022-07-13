@@ -1,0 +1,82 @@
+C:\Users\Win10\source\repos\cinema\cinema\bin\Debug\netstandard2.0\cinema.deps.json
+C:\Users\Win10\source\repos\cinema\cinema\bin\Debug\netstandard2.0\cinema.dll
+C:\Users\Win10\source\repos\cinema\cinema\bin\Debug\netstandard2.0\cinema.pdb
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\cinema.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\cinema.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\cinema.AssemblyInfo.cs
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\cinema.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\cinema.dll
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\refint\cinema.dll
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\cinema.pdb
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\ref\cinema.dll
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\Contact.xaml.g.cs
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\MoviePage.xaml.g.cs
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\TabbedPage.xaml.g.cs
+C:\Users\Win10\source\repos\cinema\cinema\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+C:\Users\Win10\Desktop\cinema\cinema\bin\Debug\netstandard2.0\cinema.deps.json
+C:\Users\Win10\Desktop\cinema\cinema\bin\Debug\netstandard2.0\cinema.dll
+C:\Users\Win10\Desktop\cinema\cinema\bin\Debug\netstandard2.0\cinema.pdb
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\cinema.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\Contact.xaml.g.cs
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\MoviePage.xaml.g.cs
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\TabbedPage.xaml.g.cs
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\cinema.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\cinema.AssemblyInfo.cs
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\cinema.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\cinema.dll
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\refint\cinema.dll
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\cinema.pdb
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\ref\cinema.dll
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\SearchPage.xaml.g.cs
+C:\Users\Win10\Desktop\cinema\cinema\obj\Debug\netstandard2.0\BookPage.xaml.g.cs
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\bin\Debug\netstandard2.0\cinema.deps.json
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\bin\Debug\netstandard2.0\cinema.dll
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\bin\Debug\netstandard2.0\cinema.pdb
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\cinema.csproj.AssemblyReference.cache
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\BookPage.xaml.g.cs
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\Contact.xaml.g.cs
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\MoviePage.xaml.g.cs
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\SearchPage.xaml.g.cs
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\TabbedPage.xaml.g.cs
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\cinema.AssemblyInfoInputs.cache
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\cinema.AssemblyInfo.cs
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\cinema.csproj.CoreCompileInputs.cache
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\cinema.dll
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\refint\cinema.dll
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\cinema.pdb
+C:\Users\samra\OneDrive\Desktop\cinema\cinema\obj\Debug\netstandard2.0\ref\cinema.dll
+C:\Users\Win10\Desktop\New folder\cinema\cinema\bin\Debug\netstandard2.0\cinema.deps.json
+C:\Users\Win10\Desktop\New folder\cinema\cinema\bin\Debug\netstandard2.0\cinema.dll
+C:\Users\Win10\Desktop\New folder\cinema\cinema\bin\Debug\netstandard2.0\cinema.pdb
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\cinema.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\BookPage.xaml.g.cs
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\Contact.xaml.g.cs
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\MoviePage.xaml.g.cs
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\SearchPage.xaml.g.cs
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\TabbedPage.xaml.g.cs
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\cinema.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\cinema.AssemblyInfo.cs
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\cinema.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\cinema.dll
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\refint\cinema.dll
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\cinema.pdb
+C:\Users\Win10\Desktop\New folder\cinema\cinema\obj\Debug\netstandard2.0\ref\cinema.dll

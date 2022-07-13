@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="cinema.MainPage"
+             BackgroundColor="#302c2c"
+             NavigationPage.HasNavigationBar="False">
+            
+
+    <StackLayout>
+        <Label Text="CinePlanet" FontSize="50" TextColor="#b82828" FontAttributes="Bold" HorizontalOptions="Center" Padding="0,50, 0 ,0"/>
+        <Image Source="test1.png" HeightRequest="445" VerticalOptions="Center"/>
+        <Button Text="Book your Ticket" HorizontalOptions="CenterAndExpand" FontAttributes="Bold" Clicked="Button_Clicked" BackgroundColor="#b82828" TextColor="White" CornerRadius="30" WidthRequest="400" VerticalOptions="End"/>
+    </StackLayout>
+
+</ContentPage>

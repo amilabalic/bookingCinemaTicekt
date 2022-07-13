@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="cinema.BookPage"
+                BackgroundColor="#302c2c"
+             NavigationPage.HasNavigationBar="False">
+   
+    <ContentPage.Content>
+        <StackLayout>
+            <Image HorizontalOptions="End" Source="remove.png" WidthRequest="20" HeightRequest="20">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" NumberOfTapsRequired="1"/>
+                </Image.GestureRecognizers>
+            </Image>
+            <Image Source="loginuser.png"
+                   Margin="0,40,0,60"
+                   HorizontalOptions="Center"
+                   HeightRequest="90"
+                   WidthRequest="90" />
+            <Entry x:Name="firstName" Placeholder="First name" TextColor="white" PlaceholderColor="white"/>
+            <Entry x:Name="lastName" Placeholder="Last name" TextColor="white" PlaceholderColor="white"/>
+            <Entry x:Name="email" Placeholder="Email" TextColor="white" PlaceholderColor="white"/>
+            <Entry x:Name="cardNumber" Placeholder="Card number" Keyboard="Numeric" TextColor="white" PlaceholderColor="white"/>
+            <Entry x:Name="quantity" Placeholder="Quantity" Keyboard="Numeric" TextColor="white" PlaceholderColor="white"/>
+            <Image Source="bookticket.png"
+                   Margin="0,120,0,0"  >
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer x:Name="ImgBookTicket" Tapped="Button_Clicked" NumberOfTapsRequired="1"/>
+                </Image.GestureRecognizers>
+            </Image>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

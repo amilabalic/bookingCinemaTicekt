@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"  
+             x:Class="cinema.DetailPage"
+             BackgroundColor="#302c2c"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout VerticalOptions="FillAndExpand">
+                <Grid RowSpacing="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <Image x:Name="ImgMovie"
+                           Aspect="Fill"
+                           HeightRequest="350"
+                           Source="{Binding SelectedTicket.Image}"/>
+                    <BoxView BackgroundColor="black"
+                             HeightRequest="350"
+                             Opacity="0.3" />
+                    <Image Source="backicon"
+                           Margin="20,20,0,0"
+                           HorizontalOptions="Start"
+                           VerticalOptions="Start"
+                           Grid.Row="0">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer x:Name="ImgBack" Tapped="ImgBack_Tapped" NumberOfTapsRequired="1" />
+                        </Image.GestureRecognizers>
+                    </Image>
+                </Grid>
+                <Frame VerticalOptions="FillAndExpand"
+                       IsClippedToBounds="False"
+                       BackgroundColor="#302c2c"
+                       Margin="0,-40,0,0"
+                       CornerRadius="25"
+                       HasShadow="False">
+                    <StackLayout Margin="0,-50,0,0">
+                        <Grid HeightRequest="200"
+                              VerticalOptions="Start">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="4*" />
+                                <ColumnDefinition Width="6*" />
+                            </Grid.ColumnDefinitions>
+                            <Frame  Grid.Column="0"
+                                    CornerRadius="15"
+                                    Padding="0">
+                                <Image x:Name="ImgMovieCover"
+                                       Aspect="Fill"
+                                       HeightRequest="200"
+                                       VerticalOptions="Start" 
+                                       Source="{Binding SelectedTicket.Image}"/>
+                            </Frame>
+                            <StackLayout Grid.Column="1"
+                                         Padding="5"
+                                         Spacing="5"
+                                         Margin="10,40,0,0">
+                                <Label x:Name="LblMovieName"
+                                       TextColor="white"
+                                       FontSize="Medium"
+                                       Text="{Binding SelectedTicket.MovieTitle}"/>
+                                <StackLayout Orientation="Horizontal"
+                                             Spacing="0">
+                                    <Frame BackgroundColor="#b82828"
+                                           BorderColor="#c74040"
+                                           Padding="8"
+                                           CornerRadius="30">
+                                        <Label TextColor="white"
+                                               x:Name="LblGenre"
+                                               Text="{Binding SelectedTicket.Genre}"/>
+                                    </Frame>
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label x:Name="LblRating"
+                                           TextColor="white"
+                                           Text="{Binding SelectedTicket.Rate}"/>
+                                    <Image Source="star.png"
+                                           VerticalOptions="Center"
+                                           Aspect="Fill"
+                                           HeightRequest="20"
+                                           WidthRequest="20" />
+                                </StackLayout>
+                                <Label x:Name="LblLanguage"
+                                       TextColor="white" 
+                                       Text="{Binding SelectedTicket.Language}"/>
+                                <Label x:Name="LblDuration"
+                                       TextColor="white"
+                                       Text="{Binding SelectedTicket.Duration}"/>
+                            </StackLayout>
+                        </Grid>
+                        <Label Text="Details:"
+                               FontSize="Medium"
+                               Margin="0,20,0,0"
+                               TextColor="white" />
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="0.65*" />
+                                <ColumnDefinition Width="0.35*" />
+                            </Grid.ColumnDefinitions>
+                            <Label Text="Playing Date"
+                                   TextColor="white"
+                                   Grid.Row="0"
+                                   Grid.Column="0" />
+                            <Label x:Name="LblPlayingDate"
+                                   TextColor="#8B93A6"
+                                   Grid.Row="1"
+                                   Grid.Column="0" 
+                                   Text="{Binding SelectedTicket.ShowingDate}"/>
+                            <Label Text="Playing Time"
+                                   TextColor="white"
+                                   Grid.Row="0"
+                                   Grid.Column="1" />
+                            <Label x:Name="LblPlayingTime"
+                                   TextColor="#8B93A6"
+                                   Grid.Row="1"
+                                   Grid.Column="1"
+                                   Text="{Binding SelectedTicket.ShowingTime}"/>
+                            <Label Text="Ticket Price"
+                                   TextColor="white"
+                                   Grid.Row="2"
+                                   Grid.Column="0"
+                                   />
+                            <Label x:Name="LblTicketPrice"
+                                   TextColor="#8B93A6"
+                                   Grid.Row="3"
+                                   Grid.Column="0"
+                                   Text="{Binding SelectedTicket.Price}"/>
+                        </Grid>
+                        <BoxView BackgroundColor="#8B93A6"
+                                 HeightRequest="1" />
+                        <Label Text="Description"
+                               TextColor="white" />
+                        <Label x:Name="LblMovieDescription"
+                               TextColor="#8B93A6" 
+                               Text="{Binding SelectedTicket.Description}"/>
+                        <Image Source="bookticket.png"
+                               Margin="0,30,0,0">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer x:Name="ImgBookTicket" NumberOfTapsRequired="1"  Tapped="ImgBookTicket_Tapped"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+ 
+    
+  
+</ContentPage>

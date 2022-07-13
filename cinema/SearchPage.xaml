@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="cinema.SearchPage"
+             Title="Search"
+             IconImageSource="searchIcon.png"
+             NavigationPage.HasBackButton="False"
+             BackgroundColor="#302c2c">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <SearchBar x:Name="search" TextChanged="SearchBar_TextChanged_1" BackgroundColor="#b82828" Placeholder="Search movies..." PlaceholderColor="White" TextColor="White"/>
+            <CollectionView x:Name="CvMovies" SelectionMode="Single" SelectedItem="{Binding SelectedTicket}" SelectionChanged="TicketSelected" >
+                <CollectionView.ItemsLayout>
+                    <GridItemsLayout Span="1"
+                                     Orientation="Vertical" />
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="15,10,15,0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="100" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="2*" />
+                                <ColumnDefinition Width="8*" />
+                            </Grid.ColumnDefinitions>
+                            <Image Aspect="Fill"
+                                   HeightRequest="100"
+                                   VerticalOptions="Start"
+                                   Grid.Column="0"
+                                   Source="{Binding Image}"/>
+                            <Label FontSize="Medium"
+                                   Grid.Column="1"
+                                   TextColor="White"
+                                   VerticalOptions="Center"
+                                   Text="{Binding MovieTitle}"/>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
